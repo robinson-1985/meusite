@@ -1,2 +1,3 @@
 # meusite
-Esse repositório contém um projetinho de site em Django, como intuito de aprender e fixar conteúdo do framework.
+
+Esse repositório contém um pequeno projeto em Django, para fixação do aprendizado e conteúdo.
