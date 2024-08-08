@@ -1,3 +1,5 @@
 # meusite
 
-Esse repositório contém um pequeno projeto em Django, para fixação do aprendizado e conteúdo.
+- Esse repositório contém um repositório Django.
+
+- Necessita de maiores atualizações e implementações futuras.
